@@ -21,5 +21,5 @@ Includes optional logging, results saving, and detailed version info.
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DebaCyberX/prime-number-finder.git
-   cd prime-number-finder
+   git clone 
+   cd Prime-Number-Finder-Tool
