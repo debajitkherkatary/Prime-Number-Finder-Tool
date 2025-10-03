@@ -21,5 +21,5 @@ Includes optional logging, results saving, and detailed version info.
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/debajitkherkatary/Prime-Number-Finder-Tool.git
    cd Prime-Number-Finder-Tool
